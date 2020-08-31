@@ -1,6 +1,12 @@
-### Hi there 👋
+### Current Status
 
 ![](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+### Blog Posts
+
+#### [How to Transfer Files between AWS EC2 and S3 Buckets in Seconds](https://medium.com/p/how-to-transfer-files-between-aws-ec2-and-s3-buckets-in-seconds-b4621220cc07)
+
+#### [Hipster or Homeless — Can AI tell the difference?](https://medium.com/p/hipster-or-homeless-can-ai-tell-the-difference-c364f233f039)
 
 <!--
 **MartinSeeler/MartinSeeler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
