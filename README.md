@@ -30,15 +30,15 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/martinseeler/martinseeler"></a> hipsters and nerds visited so far
+  <a href="https://www.martinseeler.com"><img src="https://badges.pufler.dev/visits/martinseeler/martinseeler"></a> hipsters and nerds visited so far
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=martinseeler&show_icons=true&count_private=true&theme=gruvbox" width="500"></a>
+  <a href="https://www.martinseeler.com"><img src="https://github-readme-stats.vercel.app/api?username=martinseeler&show_icons=true&count_private=true&theme=gruvbox" width="500"></a>
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinseeler&layout=compact&show_icons=true&count_private=true&theme=gruvbox&langs_count=8" width="500"></a>
+  <a href="https://www.martinseeler.com"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinseeler&layout=compact&show_icons=true&count_private=true&theme=gruvbox&langs_count=8" width="500"></a>
 </p>
 
 <h2 align='center'>Blog Posts</h2>
