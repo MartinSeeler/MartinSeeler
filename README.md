@@ -30,6 +30,10 @@
 </p>
 
 <p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/martinseeler/martinseeler"></a> hipsters and nerds visited so far
+</p>
+
+<p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=martinseeler&show_icons=true&count_private=true&theme=gruvbox" width="500"></a>
 </p>
 
